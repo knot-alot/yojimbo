@@ -17,7 +17,7 @@
  *  limitations under the License.
  */
 
-#include <mbedtls/build_info.h>
+#include <mbedtls/version.h>
 
 #include "certs.h"
 
